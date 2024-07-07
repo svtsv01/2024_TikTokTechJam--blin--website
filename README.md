@@ -1,2 +1,2 @@
 # 2024_TikTokTechJam--blin--website
-Repository for the TikToc2024 website hosting
+Repository for the TikToK2024 TechJam website hosting
